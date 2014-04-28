@@ -1,4 +1,4 @@
 name: YouthTek Portal
-baseurl: "http://youthtek.github.io/Portal"
+baseurl: "/Portal"
 markdown: redcarpet
 pygments: true
