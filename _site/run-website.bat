@@ -1,1 +1,0 @@
-sudo jekyll serve --watch --baseurl ''
