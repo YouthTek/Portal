@@ -16,8 +16,12 @@ p {
   line-height: 130%;
 }
 
+img {
+  text-align: center;
+}
+
 .header {
-  background-color: #222222;
+  background-color: #000000;
   padding: 40px;
 }
 
@@ -26,7 +30,7 @@ p {
 }
 
 .footer {
-  background-color: #222222;
+  background-color: #000000;
   padding: 40px;
   color: #FFFFFF;
 }
