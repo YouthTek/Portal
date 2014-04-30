@@ -35,8 +35,20 @@ title: YouthTek Home page.
 </div>
 
 <div class="tile">
-	<a href="http://tumblr.com">
-		<img src="images/homepage-tiles/tumblr-logo.png">
+	<a href="http://weheartit.com/">
+		<img src="images/homepage-tiles/weheartit-logo.png">
+	</a>
+</div>
+
+<div class="tile">
+	<a href="http://pinterest.com/">
+		<img src="images/homepage-tiles/pinterest-logo.png">
+	</a>
+</div>
+
+<div class="tile">
+	<a href="http://reddit.com/">
+		<img src="images/homepage-tiles/reddit-logo.png">
 	</a>
 </div>
 
