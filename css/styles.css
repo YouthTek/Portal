@@ -23,6 +23,8 @@ p {
 
 .page-content {
   padding: 40px;
+  width: 990px;
+  margin: 0 auto;
 }
 
 .footer {
