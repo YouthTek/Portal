@@ -16,6 +16,11 @@
         <!-- CSS -->
         <link rel="stylesheet" href="{{ site.baseurl }}/css/styles.css">
 
+        <!-- include jquery and javascript file and slideshow library-->
+        <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.0.min.js" ></script>
+        <script type="text/javascript" src="js/main.js" ></script>
+        <script type="text/javascript" src="js/slideshow-lib/js/bjqs-1.3.min.js" ></script>
+
     </head>
 
     <body>
@@ -23,3 +28,4 @@
         {% include header.html %}
 
         <div class="page-content">
+        {% include slideshow.html %}
