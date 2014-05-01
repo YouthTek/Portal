@@ -4,29 +4,66 @@
 }
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Cooper Black", Arial, Helvetica, sans-serif;
   font-size: 14px;
 }
 
+.logo{display: block;
+  text-align: center;}
 h1 {
   color: #FFFFFF;
 }
-
-p {
-  line-height: 130%;
-}
-
 .header {
   background-color: #222222;
   padding: 40px;
 }
-
 .page-content {
   padding: 40px;
 }
-
 .footer {
   background-color: #222222;
   padding: 40px;
   color: #FFFFFF;
 }
+    
+/**
+  * Start styling for games.md
+**/
+/** center content **/
+.g-center {
+  text-align: center;
+  margin-left: 35%;
+}
+
+/** text stylings **/
+.g-h1 {
+  color: #222;
+  font-size: 24px;
+  text-align: center;
+}
+.g-p {
+  text-align: center;
+  font-size: 18px;
+  color: #FF0000;
+}
+/** add tdata borders + hovers **/
+.g-td {
+  border: 3px solid #bdc3c7;
+  border-radius: 4px;
+  padding: 5px;
+  width: 180px;
+  height: 180px;
+  background: #ecf0f1;
+  margin:0;
+  padding:0;
+}
+.g-td:hover {
+  border: 3px solid #95a506;
+}
+.g-td img {
+  width: 180px;
+  height: 180px;
+}
+/**
+  * End styling for games.md
+**/
