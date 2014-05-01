@@ -1,0 +1,137 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+h1 {
+  color: #FFFFFF;
+}
+
+p {
+  line-height: 130%;
+}
+
+.header {
+  background-color: #222222;
+  padding: 40px;
+}
+
+.page-content {
+  padding: 40px;
+}
+
+.footer {
+  background-color: #222222;
+  padding: 40px;
+  color: #FFFFFF;
+}
+#slider {
+  background-color: white;
+  width: 990px;
+  height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  /*top: 40px;*/
+  border-style: solid;
+  border-color: white;
+  border-radius: 15px;
+  border-width: 5px;
+}
+#cont {
+  background-color: #222222;
+  /*width: 100%;*/
+  border-radius: 15px;
+  padding: 40px;
+  margin: 10px;
+}
+
+.tabimg {
+  width: 130px;
+}
+
+
+#slidecell {
+  text-align: right;
+}
+#thumbtab {
+  border: 5px solid white;
+  border-radius: 15px;
+}
+
+#c1 {
+  border-bottom: 2px solid white;
+  border-right: 2px solid white;
+  height: 80px;
+}
+#c2 {
+  border-bottom: 2px solid white;
+  border-right: 2px solid white;
+height: 80px;
+}
+#c3 {
+  border-bottom: 2px solid white;
+  border-right: 2px solid white;
+height: 80px;
+}
+#c4 {
+  border-bottom: 2px solid white;
+height: 80px;
+}
+#c5 {
+  border-bottom: 2px solid white;
+  border-right: 2px solid white;
+height: 80px;
+}
+#c6 {
+  border-bottom: 2px solid white;
+  border-right: 2px solid white;
+height: 80px;
+}
+#c7 {
+  border-bottom: 2px solid white;
+  border-right: 2px solid white;
+height: 80px;
+}
+#c8 {
+  border-bottom: 2px solid white;
+height: 80px;
+}
+#c9 {
+  border-right: 2px solid white;
+  height: 80px;
+  border-bottom: 2px solid white;
+}
+#c10 {
+  border-right: 2px solid white;
+  height: 80px;
+  border-bottom: 2px solid white;
+}
+#c11 {
+  border-right: 2px solid white;
+  height: 80px;
+  border-bottom: 2px solid white;
+}
+#c12 {
+  height: 80px;
+  border-bottom: 2px solid white;
+}
+#thumbtab td {
+  padding: 10px;
+  /*height: 80px;*/
+  width: 130px;
+  border-radius: 15px;
+  border-width: 5px;
+  /*border: 2px solid white;*/
+}
+.titrow {
+  height: 15px;
+}
+
+td h4 {
+  color: white;
+}
