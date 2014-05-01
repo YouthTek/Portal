@@ -14,6 +14,7 @@ h1 {
 
 p {
   line-height: 130%;
+  text-align: center;
 }
 
 .header {
@@ -29,4 +30,54 @@ p {
   background-color: #222222;
   padding: 40px;
   color: #FFFFFF;
+}
+
+
+h1 {
+  color: red;
+font-size: 50px;
+text-align: center;
+}
+
+p {
+  font-size: 30px;
+
+}
+
+.soundcloud { 
+  width: 40%;
+  float: left;
+  padding-left: 30px;
+  font-size: 13px;
+  padding-bottom: 30px;
+  font-family: arial;
+  font-weight: bold;
+}
+
+.soundcloud img {
+  width: 450px;
+}
+
+.youtube {
+  width: 40%;
+  float: left;
+  font-size: 13px;
+  padding-bottom: 30px;
+  font-family: arial;
+  font-weight: bold;
+}
+
+.youtube img {
+  width: 450px;
+}
+
+.clear-float {
+  clear: both;
+}
+
+.studio {
+  text-align: left;
+  font-size: 13px;
+  font-family: arial;
+  font-weight: bold;
 }
