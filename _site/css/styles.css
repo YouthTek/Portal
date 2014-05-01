@@ -44,25 +44,94 @@ p {
 }
 #cont {
   background-color: #222222;
-  width: 100%;
+  /*width: 100%;*/
   border-radius: 15px;
   padding: 40px;
+  margin: 10px;
 }
 
 .tabimg {
-  width: 150px;
+  width: 130px;
 }
 
 
 #slidecell {
   text-align: right;
 }
-#thumbtab td {
-  padding: 10px;
-  height: 100px;
-  width: 150px;
-}
 #thumbtab {
   border: 5px solid white;
   border-radius: 15px;
+}
+
+#c1 {
+  border-bottom: 2px solid white;
+  border-right: 2px solid white;
+  height: 80px;
+}
+#c2 {
+  border-bottom: 2px solid white;
+  border-right: 2px solid white;
+height: 80px;
+}
+#c3 {
+  border-bottom: 2px solid white;
+  border-right: 2px solid white;
+height: 80px;
+}
+#c4 {
+  border-bottom: 2px solid white;
+height: 80px;
+}
+#c5 {
+  border-bottom: 2px solid white;
+  border-right: 2px solid white;
+height: 80px;
+}
+#c6 {
+  border-bottom: 2px solid white;
+  border-right: 2px solid white;
+height: 80px;
+}
+#c7 {
+  border-bottom: 2px solid white;
+  border-right: 2px solid white;
+height: 80px;
+}
+#c8 {
+  border-bottom: 2px solid white;
+height: 80px;
+}
+#c9 {
+  border-right: 2px solid white;
+  height: 80px;
+  border-bottom: 2px solid white;
+}
+#c10 {
+  border-right: 2px solid white;
+  height: 80px;
+  border-bottom: 2px solid white;
+}
+#c11 {
+  border-right: 2px solid white;
+  height: 80px;
+  border-bottom: 2px solid white;
+}
+#c12 {
+  height: 80px;
+  border-bottom: 2px solid white;
+}
+#thumbtab td {
+  padding: 10px;
+  /*height: 80px;*/
+  width: 130px;
+  border-radius: 15px;
+  border-width: 5px;
+  /*border: 2px solid white;*/
+}
+.titrow {
+  height: 15px;
+}
+
+td h4 {
+  color: white;
 }
