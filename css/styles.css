@@ -36,8 +36,7 @@ p {
   height: 400px;
   margin-left: auto;
   margin-right: auto;
-  position: relative;
-  top: 40px;
+  /*top: 40px;*/
   border-style: solid;
   border-color: white;
   border-radius: 15px;
@@ -46,6 +45,24 @@ p {
 #cont {
   background-color: #222222;
   width: 100%;
-  height: 500px;
+  border-radius: 15px;
+  padding: 40px;
+}
+
+.tabimg {
+  width: 150px;
+}
+
+
+#slidecell {
+  text-align: right;
+}
+#thumbtab td {
+  padding: 10px;
+  height: 100px;
+  width: 150px;
+}
+#thumbtab {
+  border: 5px solid white;
   border-radius: 15px;
 }
